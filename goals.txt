@@ -1,0 +1,5 @@
+For my course project I'd like to create a better way to look for houses to rent/buy based on how far they are from a specific location.
+
+I'm pretty sure I can use the google maps API to do something close.
+
+I'd like to build this because I've had to move around a lot, and it's difficult to find a place to live or even target neighborhoods when you're totally unfamiliar with an area. I hate commuting long distances and I think being able to search for a home primarily based on how far it is from somewhere would be helpful for a lot of people like myself.
